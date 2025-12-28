@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TelaLoginsimples</string>
+    <string name="button">Entrar</string>
+    <string name="digite_seu_nome">Tela de login</string>
+    <string name="name">User</string>
+    <string name="e_mail">E-mail</string>
+    <string name="digite_sua_senha">Digite sua Senha</string>
+    <string name="password">Senha</string>
+</resources>
