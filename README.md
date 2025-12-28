@@ -1,4 +1,6 @@
-## <b><h4>App de Tela de Login Simples em KotlinDescrição:</h4></b>
+## <b><h4>App de Tela de Login Simples em Kotlin</h4></b>
+<br><br>
+Descrição:
 <br><br>
 Este é um projeto de aplicativo Android básico que demonstra a criação de uma tela de login. <br>
 A interface do usuário foi construída com ConstraintLayout, permitindo um layout flexível e responsivo que se adapta a diferentes tamanhos de tela.<br>
